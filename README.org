@@ -4,6 +4,6 @@ Tiny Common Lisp library to do some quick benchmark tests
 
 |---------+-------------------------------------------------------|
 | source  | git:https://codeberg.org/shinmera/trivial-benchmark.git |
-| commit  | 0000000                                               |
+| commit  | 88aa901                                               |
 | systems | trivial-benchmark                                     |
 |---------+-------------------------------------------------------|
